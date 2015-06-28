@@ -1,0 +1,20 @@
+{
+  "name": "nwTaskify",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ThorstenHans/nwTaskify",
+  "authors": [
+    "Thorsten Hans <thorsten.hans@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.1",
+    "bootstrap": "~3.3.5"
+  }
+}
