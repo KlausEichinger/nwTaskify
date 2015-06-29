@@ -1,0 +1,8 @@
+{
+	"name": "nwTaskify",
+	"main" : "./index.html",
+	"version": "0.0.2",
+	"window": {
+		"title": "nwTaskify"
+	}
+}
