@@ -1,6 +1,5 @@
 (function(){
 	"use strict";
-
 	
 	angular.module('nwTaskify', [])
 		.run(function($log){
@@ -17,5 +16,4 @@
                 }
             }
 		});
-
 })();
