@@ -3,6 +3,10 @@
 	"main" : "./index.html",
 	"version": "0.0.2",
 	"window": {
-		"title": "nwTaskify"
+		"title": "nwTaskify",
+		"toolbar": false,
+		"width": 900,
+		"height" : 700
+
 	}
 }
